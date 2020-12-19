@@ -1,6 +1,5 @@
 package openfl.display;
 import openfl.display.Sprite;
-import openfl.display.Sprite;
 import openfl.display.BitmapData;
 import openfl.display.Bitmap;
 import openfl.display.Graphics;
