@@ -1,4 +1,4 @@
-package kraken.display;
+package openfl.display;
 import openfl.display.Sprite;
 import openfl.display.Sprite;
 import openfl.display.BitmapData;
